@@ -1,6 +1,6 @@
 # My soulution from Codewars using GoogleTest framework and CMake
 
-This repository stores the code of my solutions from [codewars.com](https://www.codewars.com/). 
+This repository stores a few solutions from [codewars.com](https://www.codewars.com/). 
 
 Link to Codewars' profile: [https://www.codewars.com/users/l122](https://www.codewars.com/users/l122)
 
@@ -23,7 +23,7 @@ If CMake presents the terminal will dispaly "cmake version ....."
 
 ## How to run it in Windows
 
-- open a mommand line terminal in the folder of a specific project, e.g. "Build Tower"
+- open a command line terminal in the folder of a specific project, e.g. "Build Tower"
 - download [GoogleTest](https://github.com/google/googletest) by typing the following command in the terminal: **git clone https://github.com/google/googletest.git**
 - create a "build" folder: mkdir build
 - go to "build" folder: cd build
