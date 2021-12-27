@@ -1,0 +1,8 @@
+*.exe
+.vscode/
+*.s
+.build/
+*/build/
+googletest/
+*/googletest/
+README.md
